@@ -1,17 +1,17 @@
 {
     "packages": [
       {
-        "name": "razerduino",
-        "maintainer": "DarkMetalMouse",
-        "websiteURL": "https://github.com/DarkMetalMouse/razerduino",
+        "name": "razerduino48",
+        "maintainer": "bluekrash",
+        "websiteURL": "https://github.com/bluekrasinc/mouse",
         "email": "",
         "platforms": [
           {
-            "name": "razerduino",
+            "name": "razerduino48",
             "architecture": "avr",
             "version": "0.9.0",
             "category": "Contributed",
-            "url": "https://github.com/DarkMetalMouse/razerduino/blob/master/razerduino-0.9.0.zip?raw=true",
+            "url": "https://github.com/bluekrasinc/mouse/blob/e471ae30c3a634064ac42ea4bdacff4548c8cb8f/razerduino-0.9.0.zip?raw=true",
             "archiveFileName": "razerduino-0.9.0.zip",
             "checksum": "SHA-256:85744dad5f19a142d8b74e441e4820ab64853b87be414fe4cc144bb7b131b802",
             "size": "6010904",
